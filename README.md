@@ -1,5 +1,33 @@
-### Hi there 👋
+<!---
+# Hello, World!  I am Elliott 👋
 
+## About Me
+```Python
+class Bio():
+    def __init__ (self):
+        self.name = "Elliott Larsen"
+        self.pronouns = "He/Him"
+        self.former_life = "Classically trained musician and college professor."
+        self.current_life = "Pursuing Bachelor of Science in Computer Science at Oregon State University."
+```
+
+🏳️‍🌈 and 🇰🇷🇺🇸.  I am a social-minded and progressive software engineer.  
+
+## I Work With...
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+## Let's Connect!
+<a href="mailto:elliottlrsn@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/elliottlarsen/"><img alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+--->
 <!--
 **ElliottLarsen/ElliottLarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
