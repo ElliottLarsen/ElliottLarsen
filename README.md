@@ -4,7 +4,7 @@
 ## About Me
 ```Python
 class Bio():
-    def __init__ (self):
+    def __init__(self):
         self.name = "Elliott Larsen"
         self.pronouns = "He/Him"
         self.former_life = "Classically trained musician and college professor."
