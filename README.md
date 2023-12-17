@@ -7,7 +7,7 @@ class Bio:
         self.name = "Elliott Larsen"
         self.pronouns = "He/Him"
         self.former_life = "Classically trained musician and college professor."
-        self.current_life = "Backend Developer. Pursuing BSCS at Oregon State University."
+        self.current_life = "Backend Developer. Bachelor of Science in Computer Science from Oregon State University."
 ```
 
 I am a social-minded and progressive software engineer.  
