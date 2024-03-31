@@ -6,7 +6,7 @@ class Bio:
     def __init__(self):
         self.name = "Elliott Larsen"
         self.pronouns = "He/Him"
-        self.former_life = "Classically trained musician and college professor."
+        self.former_life = "Classically trained musician and educator."
         self.current_life = "Backend Developer. B.Sc. in Computer Science from Oregon State University."
 ```
 
